@@ -1,6 +1,5 @@
 ### 问题描述： ###
 2、	计算中心节点启动如果，控制台报错找不到Carte_NodeManager.bat文件，且显示路径与下图相似
-
 ![](picture/GeoSmarter2_1.png)
 
 ### 解决方法 ###
